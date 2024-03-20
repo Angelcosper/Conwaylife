@@ -1,6 +1,4 @@
-# Project Title
-
-Conway's game of life prediction machine.
+# Conway's game of life prediction machine.
 
 ## Summary
 
